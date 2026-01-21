@@ -70,7 +70,7 @@ export default function Home() {
   return (
     <main style={{ padding: 40, fontFamily: "Arial" }}>
       <h1>Shamsart AI Studio</h1>
-      <p>Text → Image</p>
+      <p>Text → Image → Video</p>
 
       <input
         type="text"
